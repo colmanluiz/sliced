@@ -1,0 +1,12 @@
+{
+  "name": "sliced",
+  "version": "1.0.0",
+  "description": "A pizza shop site made with Typescript, Nextjs, Nodejs and React.",
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
